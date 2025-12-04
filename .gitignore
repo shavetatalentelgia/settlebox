@@ -1,0 +1,46 @@
+### WordPress Core (never track)
+wp-config.php
+wp-content/upgrade/
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+wp-content/debug.log
+
+### Plugins you install manually (optional)
+# wp-content/plugins/
+
+### OS Generated Files ###
+.DS_Store
+Thumbs.db
+
+### IDE Files ###
+.vscode/
+.idea/
+
+### Application Logs ###
+*.log
+
+### Composer / PHP dependency directories
+vendor/
+
+### Node Artifacts ###
+node_modules/
+npm-debug.log
+yarn-error.log
+
+### Env / Secrets (production safe)
+.env
+.env.*
+*.env
+
+### Server-specific files
+.htaccess
+web.config
+
+### Backup files
+*.sql
+*.tar
+*.zip
+*.bak
+*.tmp
+

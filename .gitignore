@@ -5,6 +5,7 @@ wp-content/uploads/
 wp-content/cache/
 wp-content/backups/
 wp-content/debug.log
+wp-content/wflogs/
 
 ### Plugins you install manually (optional)
 # wp-content/plugins/

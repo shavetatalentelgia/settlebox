@@ -1,0 +1,76 @@
+18-08-2025 11:39:40 - INFO  - 8.9.3 - 12.1 MB/256 MB - admin > Start upgrade from 0.0.0
+18-08-2025 11:39:40 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+18-08-2025 11:39:40 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+18-08-2025 11:39:41 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+18-08-2025 11:39:41 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+18-08-2025 11:39:41 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+18-08-2025 11:39:41 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+18-08-2025 11:39:41 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+18-08-2025 11:39:41 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > Backing up options of 0.0.0
+18-08-2025 11:39:41 - INFO  - 8.9.3 - 11.4 MB/256 MB - admin > End
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 59.4 MB/128 MB - admin > Start upgrade from 8.9.3
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Array
+(
+    [`wp_newsletter_emails`] => Created table `wp_newsletter_emails`
+)
+
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Array
+(
+    [`wp_newsletter_sent`] => Created table `wp_newsletter_sent`
+)
+
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Array
+(
+    [`wp_newsletter`] => Created table `wp_newsletter`
+)
+
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Array
+(
+    [`wp_newsletter_user_logs`] => Created table `wp_newsletter_user_logs`
+)
+
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Array
+(
+    [`wp_newsletter_user_meta`] => Created table `wp_newsletter_user_meta`
+)
+
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Array
+(
+    [`wp_newsletter_stats`] => Created table `wp_newsletter_stats`
+)
+
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Array
+(
+    [`wp_newsletter_logs`] => Created table `wp_newsletter_logs`
+)
+
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.6 MB/128 MB - admin > Backing up options of 8.9.3
+29-08-2025 04:46:54 - INFO  - 8.9.4 - 61.7 MB/128 MB - admin > End

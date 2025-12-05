@@ -22,7 +22,7 @@ Thumbs.db
 *.log
 
 ### Composer / PHP dependency directories
-vendor/
+#vendor/
 
 ### Node Artifacts ###
 node_modules/
